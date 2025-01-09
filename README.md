@@ -1,6 +1,25 @@
 # General Rafael Alfonso Ravard
 
-Rafael Alfonso Ravard es una de las figuras clave que tenemos que tener PRESENTE para la reconstrucción de Venezuela.
+Rafael Alfonso Ravard es un venezolano excepcional y una de las figuras clave que debemos tener presentes para la reconstrucción de Venezuela.
+
+- Primer presidente de Petróleos de Venezuela S.A. (PDVSA) de 1976 a 1983
+- Presidente de la Corporación Venezolana de Guayana (CVG) desde 1960
+- Lideró el desarrollo hidroeléctrico del río Caroní, incluyendo el proyecto de la represa de Guri
+- Fundador y planificador de Ciudad Guayana
+- Presidente de EDELCA, Venalum y vicepresidente de Alcasa
+- Impulsó la creación de industrias básicas en Venezuela
+- Dirigió el proyecto de arborización de Uverito, con la siembra de 26 millones de pinos Caribe, que fue el bosque más grande del mundo plantado por el hombre. 
+- Presidente de la Corporación Venezolana de Fomento en 1958
+- Creador de CADAFE (Compañía Anónima de Administración y Fomento Eléctrico)
+- Fundador de la empresa Cementos Guayana
+- Presidente del Consejo Mundial de la Energía en 1954
+- Miembro de la Academia de Ciencias Físicas, Matemáticas y Naturales de Venezuela
+- Presidente de Fe y Alegría durante 14 años
+- Ingresó a la Academia Militar de Venezuela en 1936, graduándose como Alférez en 1939
+- Realizó estudios de Ingeniería Militar en la Real Academia de Artillería e Ingeniería en Turín, Italia, interrumpidos por el estallido de la Segunda Guerra Mundial en 1939
+- Obtuvo el título de Ingeniero Civil (B.S. Civil Engineering) del Massachusetts Institute of Technology (MIT) en 1945
+- Participó en la nacionalización de la industria petrolera venezolana
+- Contribuyó al desarrollo del sector del aluminio en Venezuela
 
 ## Biografía
 
@@ -24,6 +43,7 @@ Accede a su biografía escrita por Rafael Arraíz Luca en los siguiente enlaces:
 
 - Biografía de Rafael Alfonso Ravard [Github enlace](https://github.com/jdcampolargo/AlfonzoRavard/blob/main/Rafael_Alfonzo_Ravard_biografia_servidor_ejemplar.pdf)
 - Biografía de Rafael Alfonso Ravard <a href="http://repositoriodigital.uma.edu.ve:8080/jspui/bitstream/123456789/963/1/Rafael_Alfonzo_Ravard_biografia_servidor_ejemplar.pdf" target="_blank">UMA enlace</a>
+- *35 años de desarrollo de la infraestructura de producción y consumo de energía en Venezuela* fue el discurso de incorporación de Rafael Alfonzo Ravard como Individuo de Número de la Academia de Ciencias Físicas, Matemáticas y Naturales de Venezuela. Recomendado. No he podido encontrar el PDF. Por favor, contáctame si sabes de uno
 
 También puedes aprender más sobre el General Rafael Alfonso Ravard en el podcast *Venezolanos*:
 
