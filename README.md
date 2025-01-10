@@ -1,6 +1,6 @@
-# General Rafael Alfonso Ravard
+# General Rafael Alfonzo Ravard
 
-Rafael Alfonso Ravard es un venezolano excepcional y una de las figuras clave que debemos tener presentes para la reconstrucción de Venezuela.
+Rafael Alfonzo Ravard es un venezolano excepcional y una de las figuras clave que debemos tener presentes para la reconstrucción de Venezuela.
 
 - Primer presidente de Petróleos de Venezuela S.A. (PDVSA) de 1976 a 1983
 - Presidente de la Corporación Venezolana de Guayana (CVG) desde 1960
